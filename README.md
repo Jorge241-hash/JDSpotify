@@ -42,3 +42,11 @@ He creado una aplicación de música similar a Spotify para tratar de escuchar l
 
 ```
 
+<br>
+
+- A continuación, configuro el fichero $PREFIX/etc/apache2/httpd.conf. Dejo el enlace al fichero para que veais la configuración correcta.
+
+https://github.com/Jorge241-hash/JDSpotify/blob/main/httpd.conf
+
+<br>
+
