@@ -17,7 +17,6 @@ He creado una aplicación de música similar a Spotify para tratar de escuchar l
 ¡EN DISPOSITIVOS IOS NO FUNCIONA CORRECTAMENTE YA QUE NO SE PUEDEN DESCARGAR APKS COMO TERMUX! (NO HE ENCONTRADO APLICACIONES SIMILARES)
 
 <br>
-<br> 
 
 
 ## CREACIÓN DE LA APLICACIÓN
