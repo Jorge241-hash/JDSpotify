@@ -1,2 +1,12 @@
-# JDSpotify
-Este es un proyecto que trata de mi propia aplicación de música creada a partir de los lenguajes de programación de PHP y JavaScript, junto a HTML y CSS. Además, he creado una base de datos donde almaceno todas las canciones, cantantes, etc... Espero que os guste y os animéis a hacerlo ya que es totalmente gratuito.
+<div align="center">
+
+# JD KING SPOTIFY
+
+
+<img width="377" height="395" alt="Captura de pantalla 2026-06-03 103107" src="https://github.com/user-attachments/assets/19568ffa-36c3-44bf-97a8-e03d01138e21" />
+
+
+</div>
+<br>
+<br> 
+
