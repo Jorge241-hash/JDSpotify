@@ -22,7 +22,7 @@ He creado una aplicación de música similar a Spotify para tratar de escuchar l
 
 <br>
 
-- Primero, descargamos Termux  en nuestro dispositivo móvil.
+- Primero, descargamos Termux en nuestro dispositivo móvil.
 
 <br>
 
@@ -30,7 +30,15 @@ He creado una aplicación de música similar a Spotify para tratar de escuchar l
 
 
 <br>
+<br>
 
-- Una vez entrado a la aplicación usamos los mismos comandos que en Linux. Primero, 
+- Una vez entrado a la aplicación usamos los mismos comandos que en Linux. Primero, actualizo los repositorios y después instalo Apache, MariaDB y MySQL.
 
+ ```bash
+#  Actualizo los repositorios y después instalo Apache, MariaDB y MySQL.
+
+ sudo apt update
+ sudo apt install apache2 php php-apache mariadb -y
+
+```
 
